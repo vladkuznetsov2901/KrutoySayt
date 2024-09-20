@@ -35,3 +35,8 @@ text-align: left;
     margin-left: 110px;
     
 }
+
+.header-main {
+    display: flex;
+    justify-content: space-around;
+}
